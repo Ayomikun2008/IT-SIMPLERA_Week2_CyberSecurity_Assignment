@@ -1,0 +1,11 @@
+IT-SIMPLERA_Week2_CyberSecurity_Assignment/
+│
+├── Report.pdf
+├── Network_Diagram.png
+├── Screenshots/
+│   ├── ipconfig.png
+│   ├── ping.png
+│   ├── tracert.png
+│   ├── nslookup.png
+│   └── arp.png
+└── README.md (optional) 
